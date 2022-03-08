@@ -6,7 +6,7 @@ Compile the java files before running Java.
 
 ## Author cliffey V.
 
-- [GITHUB](https://www.github.com/cliffeyXvaliente)
-- [WEBSITE](https://www.cliffordvaliente.com/)
+- [ My Github](https://www.github.com/cliffeyXvaliente)
+- [ My Website](https://www.cliffordvaliente.com/)
 
 
