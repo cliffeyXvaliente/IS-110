@@ -1,12 +1,25 @@
-# Java Object Oriented Programming
+# IS-110 
 
-Welcome to my repo where you can find Java projects. 
-Compile the java files before running Java.
+Object-oriented programming (IS-110)
 
+### About
 
-## Author cliffey V.
-
-- [ My Github](https://www.github.com/cliffeyXvaliente)
-- [ My Website](https://www.cliffordvaliente.com/)
+This is a repo for the projects and tasks for the subject IS-110.
+The main subject is Java object-oriented programming. 
 
 
+### Installation
+
+
+> git clone [repo-url]
+
+
+### Contributing
+
+Free Open Source Code! 
+
+#### Language and programs used so far
+
+- Java
+- IntelliJ IDEA (IDE)
+- BlueJ (IDE) 
